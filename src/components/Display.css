@@ -1,0 +1,27 @@
+.main {
+  width: 100%;
+  border: 1px solid rgb(189, 189, 189);
+  border-right: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f9ffff;
+}
+.textarea {
+  text-align: center;
+  display: flexbox;
+  border: none;
+  padding: 30px;
+  
+margin: 9% 50px 0 50px;
+}
+.textarea textarea {
+  width: 70%;
+  border: 1px solid rgb(189, 189, 189);
+  padding: 5%;
+  outline: none;
+}
+
+input {
+  text-align: center;
+}
